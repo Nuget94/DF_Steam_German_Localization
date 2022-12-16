@@ -1,10 +1,8 @@
 # Ignore everything
-*
+*.png
+*.bmp
+/vanilla*
 
 # But not these files...
 # ...even if they are in subdirectories
 !.gitignore
-!*.txt
-!*/*.txt
-!*/*/*.txt
-!*/*/*/*.txt
