@@ -3,7 +3,7 @@ building_custom
 [OBJECT:BUILDING]
 
 [BUILDING_WORKSHOP:SOAP_MAKER]
-	[NAME:Seifenmacher-Werkstatt]
+	[NAME:Werkstatt der Seifenherstellerin]
 	[NAME_COLOR:7:0:1]
 	[DIM:3:3]
 	[WORK_LOCATION:2:2]
@@ -41,7 +41,7 @@ building_custom
 	[TOOLTIP:Verwenden Sie hier Talg (ausgeschmolzenes Fett) oder Öl mit Lauge, um Seife herzustellen.]
 
 [BUILDING_WORKSHOP:SCREW_PRESS]
-	[NAME:Schrauben-Presse]
+	[NAME:Schneckenpresse]
 	[NAME_COLOR:7:0:1]
 	[DIM:1:1]
 	[WORK_LOCATION:1:1]

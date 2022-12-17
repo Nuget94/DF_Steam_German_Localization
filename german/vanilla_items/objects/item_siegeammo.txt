@@ -3,5 +3,5 @@ item_siegeammo
 [OBJECT:ITEM]
 
 [ITEM_SIEGEAMMO:ITEM_SIEGEAMMO_BALLISTA]
-[NAME:ballista arrow:ballista arrows]
+[NAME:Ballista-Pfeil:Ballista-Pfeils]
 [CLASS:BALLISTA]

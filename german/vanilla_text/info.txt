@@ -4,5 +4,5 @@
 [EARLIEST_COMPATIBLE_NUMERIC_VERSION:5001]
 [EARLIEST_COMPATIBLE_DISPLAYED_VERSION:50.01]
 [AUTHOR:Bay 12 Games]
-[NAME:Vanilla Text]
-[DESCRIPTION:Various text strings used by the game.]
+[NAME:Vanille Text]
+[DESCRIPTION:Verschiedene vom Spiel verwendete Textzeichenfolgen.]

@@ -9,16 +9,16 @@ text_book_art
 [ADJ] [NO_ART_NAME]
 The [ADJ] [NO_ART_NAME]
 [NAME] [ADJ]
-[NAME] and the [NOUN]
-[NAME] and the [ADJ] [NOUN]
-The [NOUN] and [NAME]
-The [ADJ] [NOUN] and [NAME]
+[NAME] und die[NOUN]
+[NAME] und die[ADJ] [NOUN]
+Die[NOUN] und[NAME]
+Die[ADJ] [NOUN] und[NAME]
 [NAME]: [PHRASE]
-It Must Have Been [NAME]
-My Friend [NAME]
-The Birth of [NAME]
-The Sun Sets on [NAME]
-We See [NAME]
+Das muss es gewesen sein[NAME]
+Mein Freund[NAME]
+Die Geburt von[NAME]
+Die Sonne geht unter über[NAME]
+Wir sehen[NAME]
 [NAME] Ever Onward
 [NAME] and Nothing More
-And [ANY_PRONOUN] Sang '[NAME]!'
+Und[ANY_PRONOUN] Sang '[NAME]!'

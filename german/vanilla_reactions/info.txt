@@ -4,5 +4,5 @@
 [EARLIEST_COMPATIBLE_NUMERIC_VERSION:5001]
 [EARLIEST_COMPATIBLE_DISPLAYED_VERSION:50.01]
 [AUTHOR:Bay 12 Games]
-[NAME:Vanilla Reactions]
-[DESCRIPTION:These are the default Dwarf Fortress reactions, which are various task-like activities.]
+[NAME:Vanille-Reaktionen]
+[DESCRIPTION:Dies sind die Standardreaktionen von Dwarf Fortress, d.h. verschiedene aufgabenähnliche Aktivitäten.]

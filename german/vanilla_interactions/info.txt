@@ -4,5 +4,5 @@
 [EARLIEST_COMPATIBLE_NUMERIC_VERSION:5001]
 [EARLIEST_COMPATIBLE_DISPLAYED_VERSION:50.01]
 [AUTHOR:Bay 12 Games]
-[NAME:Vanilla Interactions]
-[DESCRIPTION:These are the default Dwarf Fortress interactions, which allow creatures to do some unusual actions.]
+[NAME:Vanille-Wechselwirkungen]
+[DESCRIPTION:Dies sind die Standard-Interaktionen in der Zwergenfestung, die es den Kreaturen erlauben, einige ungewöhnliche Aktionen durchzuführen.]

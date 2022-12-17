@@ -3,7 +3,7 @@ item_shoes
 [OBJECT:ITEM]
 
 [ITEM_SHOES:ITEM_SHOES_SHOES]
-[NAME:shoe:shoes]
+[NAME:Schuh:Schuhs]
 [LAYER:OVER]
 [COVERAGE:100]
 [LAYER_SIZE:20]
@@ -14,7 +14,7 @@ item_shoes
 [STRUCTURAL_ELASTICITY_WOVEN_THREAD]
 
 [ITEM_SHOES:ITEM_SHOES_BOOTS]
-[NAME:high boot:high boots]
+[NAME:Hochstiefel:Hochstiefels]
 [ARMORLEVEL:1]
 [UPSTEP:1]
 [METAL_ARMOR_LEVELS]
@@ -28,7 +28,7 @@ item_shoes
 [HARD]
 
 [ITEM_SHOES:ITEM_SHOES_BOOTS_LOW]
-[NAME:low boot:low boots]
+[NAME:niedriger Stiefel:niedriger Stiefels]
 [ARMORLEVEL:1]
 [METAL_ARMOR_LEVELS]
 [LAYER:OVER]
@@ -41,7 +41,7 @@ item_shoes
 [HARD]
 
 [ITEM_SHOES:ITEM_SHOES_SANDAL]
-[NAME:sandal:sandals]
+[NAME:Sandale:Sandales]
 [LAYER:OVER]
 [COVERAGE:100]
 [LAYER_SIZE:25]
@@ -52,7 +52,7 @@ item_shoes
 [STRUCTURAL_ELASTICITY_WOVEN_THREAD]
 
 [ITEM_SHOES:ITEM_SHOES_CHAUSSE]
-[NAME:chausse:chausses]
+[NAME:Chausse-Schuh:Chausse-Schuhs]
 [UPSTEP:MAX]
 [LAYER:UNDER]
 [COVERAGE:100]
@@ -64,7 +64,7 @@ item_shoes
 [STRUCTURAL_ELASTICITY_WOVEN_THREAD]
 
 [ITEM_SHOES:ITEM_SHOES_SOCKS]
-[NAME:sock:socks]
+[NAME:Socke:Sockes]
 [LAYER:UNDER]
 [COVERAGE:100]
 [LAYER_SIZE:10]

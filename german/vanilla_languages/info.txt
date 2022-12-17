@@ -4,5 +4,5 @@
 [EARLIEST_COMPATIBLE_NUMERIC_VERSION:5001]
 [EARLIEST_COMPATIBLE_DISPLAYED_VERSION:50.01]
 [AUTHOR:Bay 12 Games]
-[NAME:Vanilla Languages]
-[DESCRIPTION:These are the default Dwarf Fortress words and their translations into the in-game languages.]
+[NAME:Vanille-Sprachen]
+[DESCRIPTION:Dies sind die Standardwörter in Dwarf Fortress und ihre Übersetzungen in die Sprachen des Spiels.]
